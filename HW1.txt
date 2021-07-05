@@ -1,0 +1,10 @@
+1. 	No feasible region
+
+2.
+	maximize 12d+10s
+	d/3+s/4 = 100
+	d/6+s/4 = 80
+	3s >= 2d
+	d = 120
+	s = 240
+	obj = 3840
